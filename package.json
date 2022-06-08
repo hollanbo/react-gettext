@@ -62,7 +62,7 @@
 	"peerDependencies": {
 		"hoist-non-react-statics": "^1.2.0 || ^2.0.0-0 || ^3.0.0-0",
 		"prop-types": "^15.0.0-0 || ^16.0.0-0",
-		"react": "^15.0.0-0 || ^16.0.0-0"
+		"react": "^15.0.0-0 || ^16.0.0-0 || ^17.0.0-0"
 	},
 	"eslintConfig": {
 		"extends": "airbnb",
